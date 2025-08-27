@@ -1,4 +1,4 @@
-package src.main.java.entities;
+package entities;
 
 public class MaterialCurso {
 
